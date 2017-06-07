@@ -1,4 +1,5 @@
 <b> Atores/Atrizes preferidos</b>
 <br>Cameron Diaz
-<br>Catherina Zeta-Jones
+<br>Uma Thurman
 <br>Natalie Portman
+<br>Catherine Zeta-Jones
